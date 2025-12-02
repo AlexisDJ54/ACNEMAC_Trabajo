@@ -1,0 +1,57 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\2825\OneDrive\Documents\NetBeansProjects\Abogados_Colegiados\ACNEMAC\ACNEMAC.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\2825\OneDrive\Documents\NetBeansProjects\Abogados_Colegiados\ACNEMAC\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.002
+Java max ver:	1.004.008
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\2825\Downloads\flutter\flutter\bin;C:\Program Files\Git\cmd;C:\Users\2825\AppData\Local\Programs\Python\Launcher\;C:\Users\2825\AppData\Local\Programs\Python\Python313\Scripts;C:\Users\2825\AppData\Local\Microsoft\WindowsApps;C:\Users\2825\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\2825\AppData\Roaming\npm;C:\Users\2825\Downloads\flutter\flutter\bin;C:\Users\2825\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-23\bin
+JRE paths:	;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\2825\Downloads\flutter\flutter\bin;C:\Program Files\Git\cmd;C:\Users\2825\AppData\Local\Programs\Python\Launcher\;C:\Users\2825\AppData\Local\Programs\Python\Python313\Scripts;C:\Users\2825\AppData\Local\Microsoft\WindowsApps;C:\Users\2825\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\2825\AppData\Roaming\npm;C:\Users\2825\Downloads\flutter\flutter\bin;C:\Users\2825\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\Downloads\flutter\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\AppData\Local\Programs\Python\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\Downloads\flutter\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\2825\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.1
+Version string: 1.023.000_001 / 64-Bit (Ignore)
+Ignore:		1.023.000_001
+Check:		SOFTWARE\JavaSoft\JDK\25
+Version string: 1.025.000 / 64-Bit (Ignore)
+Ignore:		1.025.000
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.4.2 - 1.4.8
